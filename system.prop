@@ -22,3 +22,7 @@ ro.gps.agps_provider=1
 
 # cabl is handled by the panel
 ro.qualcomm.cabl=0
+
+ro.build.product=bacon
+ro.product.device=A0001
+ro.build.description=OnePlus
